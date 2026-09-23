@@ -60,14 +60,14 @@ Complete all of the following in your notes section.
 
 ## Checklist
 
-- [ ] Create at least three headers (Level 1, Level 2, Level 3)
-- [ ] Include one horizontal rule
-- [ ] Use bold text
-- [ ] Use italic text
-- [ ] Create a bullet list containing at least three items
-- [ ] Create a numbered list containing at least three items
-- [ ] Create a task list containing at least three tasks
-- [ ] Add a hyperlink with your GitHub profile
+- [x] Create at least three headers (Level 1, Level 2, Level 3)
+- [x] Include one horizontal rule
+- [x] Use bold text
+- [x] Use italic text
+- [x] Create a bullet list containing at least three items
+- [x] Create a numbered list containing at least three items
+- [x] Create a task list containing at least three tasks
+- [x] Add a hyperlink with your GitHub profile
 
 ## Instructions
 
@@ -84,5 +84,20 @@ Complete all of the following in your notes section.
 
 # Section 3: Student Notes
 
-Delete this line and write your notes here.
-
+# What is GitHub?
+- *GitHub* is a website that manages and stores code projects
+- A **repository** is a project folder stored in GitHub
+- Most GitHub work happens within a repository
+---
+## Fork, Branch, and Clone
+1. A fork is a copy of someone else's repository on GitHub
+2. A branch is a seperate version of a project. This allows you to make changes without affecting the main project
+3. Clone means copying a remote repository to your computer
+---
+### GitHub Actions
+- [ ] Staging selects which changes you want to make
+- [ ] A commit saves a snapshot of your staged changes
+- [ ] Push sends your local commits to GitHub
+- [ ] Pull downloads the latest changes from GitHub
+---
+[Github](https://github.com/Nelson1234-WTC)
